@@ -1,1 +1,1 @@
-um pequeno projeto que criei para poder tornar masi versatil a visualização das fichas dos nossos personagens quando jogava RPG com meus amigos. a cada sessão do RPG, eu mesmo atualizava as fichas por aqui.
+um pequeno projeto que criei para poder tornar masi versatil a visualização das fichas do meu personagem e do personagem dos meus amigos enquanto jogavamos RPG. a cada sessão do RPG, eu mesmo atualizava as fichas por aqui.
